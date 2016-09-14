@@ -1,0 +1,29 @@
+body {
+ background-image: url("images/body.jpg");
+}      
+     
+h1,h2 {
+               text-align:center;
+}
+
+ 
+      
+ #image {
+               font-family: Arial, Helvetica, sans-serif;
+               padding:5px;
+               }
+       #footer {
+                background-image: url("images/footer.jpg");
+            text-align:right;
+               padding:5px;
+               }
+        #navigation
+               {
+              background-image: url("images/navigate.jpg");
+               text-align:center;
+               padding:5px;  
+               }
+th:hover
+{
+             background-color:green;
+}
